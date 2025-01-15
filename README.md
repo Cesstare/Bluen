@@ -6,5 +6,7 @@ donc ce qu'on va faire c'est que pour l'instant on va uniquement faire l'html
 CA sera vachement plus organiser
 et même chacun pourra mettre ce qu'il pense etre utile d'ajouter
 Seulement après le CSS 
-et enfun le js
+et enfin le js
 PArce que la il y a tout en même temps
+
+Hell yeah le python on peut utiliser, on va pouvoir mixer js et python
