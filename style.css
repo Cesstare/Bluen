@@ -28,12 +28,12 @@ body {
     font-family: 'Roboto', serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f4ec;
+    background-color: #f3f2f0;
     color: #333;
 }
 
 header {
-    background-color: #e6dccd;
+    background-color: #291414;
     padding: 20px;
     width: 100%;
     box-sizing: border-box;
@@ -42,9 +42,15 @@ header {
 
 .header-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     margin: 0;
+}
+h1 {
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    font-style: oblique;
 }
 
 .logo-title-container {
@@ -72,6 +78,7 @@ nav {
     display: flex;
     gap: 20px;
     margin: 0;
+    justify-content: center;
 }
 
 nav a {
@@ -79,6 +86,7 @@ nav a {
     color: #333;
     font-weight: bold;
     padding: 5px 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 nav a:hover {
