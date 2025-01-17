@@ -10,3 +10,6 @@ et enfin le js
 PArce que la il y a tout en même temps
 
 Hell yeah le python on peut utiliser, on va pouvoir mixer js et python
+
+
+Type shi niga - nicolas
